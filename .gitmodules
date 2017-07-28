@@ -1,0 +1,3 @@
+[submodule "DockerSub2"]
+	path = DockerSub2
+	url = https://github.com/KashishHike/DockerSub2.git
